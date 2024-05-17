@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="hello_la_famille">Hello La famille!</string>
+    <string name="parenthese">( )</string>
+    <string name="c">C</string>
+    <string name="Pourcentage">%</string>
+    <string name="diviseurs">/</string>
+</resources>
